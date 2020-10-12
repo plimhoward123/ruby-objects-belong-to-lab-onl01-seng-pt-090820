@@ -2,7 +2,7 @@
    attr_accesor :name
 
    def intialize()
-     
+
    end
 
    def name
